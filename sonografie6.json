@@ -1,1 +1,4 @@
-{}
+{
+	"alertTitle": "Test",
+	"alertText": "Toto je testovací zpráva. Tady budou informace. Jde to?"
+}
